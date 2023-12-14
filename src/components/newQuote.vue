@@ -2,12 +2,12 @@
     <div class="row">
     <form action="">
     <div class="col-8 mx-auto text-center">
-        <h3>Add Quote</h3>
+                <h3>Add Quote</h3>
         <textarea name="quote" id="" cols="50" rows="5" v-model="quote"></textarea>
     </div>
     </form>
     <div class="col-12 text-center p-2">
-        <button class="bg-success btn-dark text-capitalize border-0 rounded-2 mb-4 py-3 px-5 fw-bold" @click.prevent="addnewquote">add quote</button>
+        <button class="bg-dark   btn-dark text-capitalize border-0 rounded-2 mb-4 py-3 px-5 fw-bold" @click.prevent="addnewquote">add quote</button>
     </div>
 </div>
    
