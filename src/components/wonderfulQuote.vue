@@ -15,7 +15,7 @@ export default {
 <style>
 .quote{
     padding: 20px;
-    background-color: bisque;
+    background-color: rgb(25, 212, 69);
 
 }
 </style>
